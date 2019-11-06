@@ -14,6 +14,8 @@ namespace FamilieLists.Wpf
             "Jeanien|Mijn Trien",
             "Sid|My Kid"
         };
+        
+        //Is die geen leuk gezin?
         public MainWindow()
         {
             InitializeComponent();
